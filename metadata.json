@@ -1,0 +1,6 @@
+{
+  "name": "CLI Agents Dashboard",
+  "description": "A tmux-style tiling web dashboard with integrated xterm.js terminals to manage and interact with local CLI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

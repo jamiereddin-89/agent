@@ -1,0 +1,16 @@
+{
+  "name": "cli-agents-local-bridge",
+  "version": "1.0.0",
+  "description": "A secure local WebSocket bridge to run interactive pty processes for CLI agents",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-pty": "^1.1.0",
+    "ws": "^8.18.0"
+  },
+  "author": "Google AI Studio CLI Agents applet",
+  "license": "Apache-2.0"
+}
